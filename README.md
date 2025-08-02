@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Gostsp
-- 👀 I’m interested in Haking@
-- 🌱 I’m currently learning Haking@
-- 💞️ I’m looking to collaborate on @instagram
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m @Rathna
+- 👀 I’m interested in coding@ like speed
+- 🌱 i learned 
+- 💞️ I’m looking to collaborate on @you
+- 📫 How to reach me rathnarajuraju807@gmail.com
+- 😄 Pronouns: tack to me
 - ⚡ Fun fact: ...
 
 <!---
